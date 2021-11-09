@@ -4,3 +4,4 @@ Skills explored/demonstrated shall be:
 - HTML - skeletal website building including images and links
 - CSS - basic design including flexbox arrangements
 
+After achieving the brief, website may then be edited for personalisation.
