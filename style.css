@@ -54,7 +54,7 @@ body {
     margin-top: 0;
 }
 
-.top-area button {
+.top-area button, .fourth-area button {
     background-color: #3882f6;
     color: white;
     padding: 10px 20px;
@@ -132,7 +132,6 @@ h3 {
     text-align: center;
     color: whitesmoke;
     width: 600px;
-    
 }
 
 .quote-person {
@@ -141,4 +140,46 @@ h3 {
     font-weight: bold;
     text-align: end;
     margin-left: 300px;
+}
+
+
+.fourth-area-box {
+    background-color: #3882f6;
+    display: flex;
+    box-sizing: border-box;
+    margin: 100px 200px;
+    padding: 30px;
+}
+
+.call-to-action-box {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    background-color: #3882f6;
+}
+
+.call-to-action-box .its-time {
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    margin-left: 50px;
+    margin-bottom: 5px;
+}
+
+.call-to-action-box .sign-up {
+    font-size: 18px;
+    color: whitesmoke;
+    margin-left: 50px;
+    margin-top: 0px;
+}
+
+.fourth-area-box button {
+    background-color: #3882f6;
+    color: white;
+    border-radius: 8px;
+    border: 3px solid white;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 10px 30px;
+    margin: 30px 90px 30px 30px;
 }
