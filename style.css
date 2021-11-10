@@ -183,3 +183,13 @@ h3 {
     padding: 10px 30px;
     margin: 30px 90px 30px 30px;
 }
+
+.fifth-area {
+    display: flex;
+    background-color: #1f2937;
+    height: 50px;
+    color: rgb(211, 211, 211);
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+}
