@@ -152,7 +152,7 @@ h3 {
     margin-left: 300px;
 }
 
-.area-box {
+.fourth-area {
     height: 200px;
     width: 900px;
     display: flex;
@@ -185,7 +185,7 @@ h3 {
     margin-top: 0px;
 }
 
-.area-box button {
+.fourth-area button {
     background-color: #3882f6;
     color: white;
     border-radius: 8px;
