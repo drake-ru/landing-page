@@ -152,20 +152,22 @@ h3 {
     margin-left: 300px;
 }
 
-
-.fourth-area-box {
-    background-color: #3882f6;
+.area-box {
+    height: 200px;
+    width: 900px;
     display: flex;
-    box-sizing: border-box;
-    margin: 100px 200px;
-    padding: 30px;
+    background-color: #3882f6;
+    align-self: center;
+    margin: 20px 20px;
 }
+
 
 .call-to-action-box {
     display: flex;
     flex: 1;
     flex-direction: column;
     background-color: #3882f6;
+    justify-content: center;
 }
 
 .call-to-action-box .its-time {
@@ -183,15 +185,18 @@ h3 {
     margin-top: 0px;
 }
 
-.fourth-area-box button {
+.area-box button {
     background-color: #3882f6;
     color: white;
     border-radius: 8px;
     border: 3px solid white;
     font-size: 15px;
     font-weight: 500;
-    padding: 10px 30px;
-    margin: 30px 90px 30px 30px;
+    display: flex;
+    align-self: center;
+    padding: 5px 25px;
+    margin-right: 70px;
+
 }
 
 .fifth-area {
